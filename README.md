@@ -1,4 +1,4 @@
-The source of this project is for the following paper:
+The source code is for the following paper:
 
 Liang Yang, Bryan Ng, Winston K.G. Seah, Lindsay Groves, "Deterministic Confidence Interval Estimation of Networking Traffic in SDN", Local Computer Networks (LCN) 2017 IEEE 42nd Conference on, pp. 120-127, 2017. 
 
